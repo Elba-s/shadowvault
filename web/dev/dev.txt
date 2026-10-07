@@ -1,0 +1,7 @@
+Deployment 17
+The vault remembers what the employee forget .
+M.K -17
+A.S -03
+J.R -21
+The old administrator password is no longer valid.
+Check deployement logs before contacting IT.

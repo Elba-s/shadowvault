@@ -1,0 +1,8 @@
+#ShadowVault authentication backup
+#Deployment 17-legacy configuration
+
+AUTH_USER=vaultadmin
+AUTH_PASSWORD=VaultLegacy17
+AUTH_STATUS=deprecated
+
+#TODO:remove this backup after migration
